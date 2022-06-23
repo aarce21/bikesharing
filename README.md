@@ -43,3 +43,8 @@ The Top Starting Locations map shows that the most popular locations for users t
 ![genderbreakdown](https://github.com/aarce21/bikesharing/blob/main/images/genderbreakdown.PNG)
 
 The bikesharing program in NYC is predominantly used by males, almost 70% of users are male. Females account for about 25% of users in the program. 
+
+# Summary
+The NYC Bikesharing program has shown to be highly successful in an area with high tourist and commuter traffic. With the analysis we performed we were able to see the breakdown of users by gender and type, what times of day and days of the week were most popular for users, the length of time bikes are being used on average, and which locaitons in NYC were more popular to checkout a bike than others. With the amount of insight gleaned into the program, a similar program has the potential to see great success in a city such as Des Moines, Iowa, where there are numerous attracitons and activites for users. 
+
+To gain more insight into the bikesharing program in NYC further analysis is necessary. It would be helpful to perform an analysis of the program in various months throughout the year instead of just focusing on August. This could help us see what months or seasons out of the year are more successful and when the bikes are utilized most often. We can also perform an analysis that looks at checkout times and the age groups of the bike riders. This wil help us see if there is a strong correlation between a users age and the length of time they use a bike. 
