@@ -2,6 +2,8 @@
 # Overview
 By performing this analysis of the CitiBike bikesharing program in NYC, we are aiming to see if a similar program can be implemented in Des Moines, Iowa and see a similar level of success. By providing potential investors with data visualizations created in Tableau, we are hoping to gain their approval to create a new bikesharing program and that it is worth investing in. 
 
+The Tableau Story for this analysis can be viewed [here](https://public.tableau.com/app/profile/angela.arce/viz/NYCBikesharingProgram/NYCBikesharingProgram?publish=yes)
+
 # Results
 ## Checkout Times for Users
 ![checkout_times_for_users](https://github.com/aarce21/bikesharing/blob/main/images/checkout_times_for_users.PNG)
